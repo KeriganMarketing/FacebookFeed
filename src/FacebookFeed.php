@@ -6,7 +6,7 @@ use GuzzleHttp\Client;
 class FacebookFeed
 {
     /**
-     * @param int $limit
+     * @param int $limit The number of posts to display
      * @return array
      */
     public function fetch($limit = 5)
