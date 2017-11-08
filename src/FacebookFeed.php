@@ -1,5 +1,5 @@
 <?php
-namespace Includes\Modules\Facebook;
+namespace KeriganMarketing\FacebookFeed;
 
 use GuzzleHttp\Client;
 
